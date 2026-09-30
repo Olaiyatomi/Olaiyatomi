@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./butterflies-header.svg" width="100%" alt="Hello, I'm Tomi."/>
+  <img src="./butterflies-header.svg" width="100%" alt="Hey, I'm Tomi."/>
 </p>
 
 <p align="center">
