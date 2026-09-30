@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 220" width="900" height="220">
+
+  <defs>
+    <radialGradient id="morpho" cx="0.1" cy="0.5" r="1">
+      <stop offset="0" stop-color="#8fd3ff"/>
+      <stop offset="0.35" stop-color="#1e90ff"/>
+      <stop offset="0.7" stop-color="#0a4fc4"/>
+      <stop offset="1" stop-color="#061a3d"/>
+    </radialGradient>
+    <radialGradient id="morpho2" cx="0.1" cy="0.3" r="1">
+      <stop offset="0" stop-color="#b7e3ff"/>
+      <stop offset="0.4" stop-color="#3aa0ff"/>
+      <stop offset="0.75" stop-color="#1557c9"/>
+      <stop offset="1" stop-color="#071d45"/>
+    </radialGradient>
+    <radialGradient id="pink" cx="0.1" cy="0.5" r="1">
+      <stop offset="0" stop-color="#ffd1ec"/>
+      <stop offset="0.35" stop-color="#ff6fb5"/>
+      <stop offset="0.7" stop-color="#d6337f"/>
+      <stop offset="1" stop-color="#4a0b2c"/>
+    </radialGradient>
+    <radialGradient id="pink2" cx="0.1" cy="0.3" r="1">
+      <stop offset="0" stop-color="#ffe3f3"/>
+      <stop offset="0.4" stop-color="#ff9ccf"/>
+      <stop offset="0.75" stop-color="#e0559b"/>
+      <stop offset="1" stop-color="#521033"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/><stop offset="0.5" stop-color="#58a6ff"/><stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+    <g id="w_morpho">
+      <clipPath id="cfmorpho"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chmorpho"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#morpho)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chmorpho)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#morpho)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfmorpho)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfmorpho)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  <g id="w_morpho2">
+      <clipPath id="cfmorpho2"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chmorpho2"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#morpho2)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chmorpho2)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#morpho2)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfmorpho2)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfmorpho2)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  <g id="w_pink">
+      <clipPath id="cfpink"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chpink"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#pink)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chpink)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#pink)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfpink)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfpink)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  <g id="w_pink2">
+      <clipPath id="cfpink2"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chpink2"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#pink2)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chpink2)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#pink2)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfpink2)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfpink2)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  </defs>
+  <text x="50%" y="50%" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#txt)">hey, i'm tomi</text>
+  <text x="50%" y="70%" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="3" fill="#58a6ff">guarding networks · writing code</text>
+  <g opacity="0.94"><g transform="rotate(90) scale(0.51)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.30s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.30s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M1001,6 C932,27 861,43 795,73 C727,100 657,118 594,158 C530,199 451,187 372,176 C300,188 239,237 180,293 C120,344 23,274 -37,326" dur="23.6s" begin="-15.4s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.88"><g transform="rotate(90) scale(0.57)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.31s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.31s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M747,165 C667,201 601,157 529,147 C464,99 389,109 318,93 C248,75 180,42 107,39 C32,50 -29,-21 -109,15 C-172,-43 -246,-43 -322,-27" dur="20.8s" begin="-6.6s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.96"><g transform="rotate(90) scale(0.50)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.35s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.35s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M341,696 C386,628 381,555 354,479 C325,403 385,337 345,260 C408,193 376,117 405,47 C413,-25 424,-96 396,-172 C394,-245 396,-318 452,-385" dur="16.7s" begin="-16.1s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.91"><g transform="rotate(90) scale(0.79)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.43s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.43s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M-225,-173 C-165,-133 -95,-105 -35,-65 C11,-5 101,-5 140,65 C211,90 246,164 293,223 C370,240 398,324 488,324 C526,395 606,408 650,471" dur="22.7s" begin="-4.8s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.87"><g transform="rotate(90) scale(0.81)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.46s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.46s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M275,-248 C323,-191 409,-186 462,-136 C543,-123 600,-78 636,-5 C704,25 739,100 798,142 C862,176 897,251 984,256 C1041,300 1093,352 1153,392" dur="22.5s" begin="-4.1s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.96"><g transform="rotate(90) scale(0.48)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.35s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.35s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M281,-402 C297,-329 217,-257 246,-184 C239,-112 257,-39 252,33 C314,105 252,178 315,250 C293,323 330,395 304,467 C269,540 282,612 284,685" dur="16.2s" begin="-2.8s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.94"><g transform="rotate(90) scale(0.51)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.31s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.31s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M1146,323 C1090,267 997,306 937,260 C860,260 796,225 727,201 C650,200 589,157 526,118 C452,110 397,52 339,1 C284,-56 218,-89 134,-73" dur="20.2s" begin="-14.0s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.95"><g transform="rotate(90) scale(0.81)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.47s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.47s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M132,76 C207,53 272,129 343,137 C415,153 492,111 564,123 C638,107 704,171 775,188 C844,225 918,212 993,192 C1064,212 1136,222 1211,197" dur="23.1s" begin="-8.1s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.96"><g transform="rotate(90) scale(0.46)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.42s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.42s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M1078,-112 C1009,-88 956,-34 887,-9 C819,18 780,95 698,98 C612,94 554,138 507,202 C448,245 369,252 315,304 C252,339 198,392 136,428" dur="22.2s" begin="-1.9s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.91"><g transform="rotate(90) scale(0.77)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.48s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.48s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M844,71 C771,70 695,51 628,97 C562,156 488,145 415,143 C344,167 272,167 195,135 C120,123 50,145 -23,143 C-98,127 -163,197 -235,201" dur="20.3s" begin="-4.0s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.98"><g transform="rotate(90) scale(0.84)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.39s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.39s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M-9,492 C18,415 90,386 140,333 C223,317 277,268 327,215 C368,153 416,99 492,73 C521,-1 562,-64 623,-105 C671,-159 738,-193 784,-250" dur="18.4s" begin="-5.8s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.95"><g transform="rotate(90) scale(0.77)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.49s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.49s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M-288,-86 C-226,-48 -150,-37 -77,-21 C-28,42 65,19 107,96 C176,121 260,116 307,182 C374,211 434,252 476,330 C563,319 608,390 682,405" dur="17.9s" begin="-11.3s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.96"><g transform="rotate(90) scale(0.50)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.39s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.39s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M505,605 C428,559 429,480 394,416 C352,355 344,280 347,199 C325,130 273,74 233,12 C232,-66 179,-123 166,-196 C158,-271 136,-341 70,-391" dur="14.0s" begin="-13.0s" repeatCount="indefinite" rotate="auto"/></g>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 90" width="900" height="90">
+
+  <defs>
+    <radialGradient id="morpho" cx="0.1" cy="0.5" r="1">
+      <stop offset="0" stop-color="#8fd3ff"/>
+      <stop offset="0.35" stop-color="#1e90ff"/>
+      <stop offset="0.7" stop-color="#0a4fc4"/>
+      <stop offset="1" stop-color="#061a3d"/>
+    </radialGradient>
+    <radialGradient id="morpho2" cx="0.1" cy="0.3" r="1">
+      <stop offset="0" stop-color="#b7e3ff"/>
+      <stop offset="0.4" stop-color="#3aa0ff"/>
+      <stop offset="0.75" stop-color="#1557c9"/>
+      <stop offset="1" stop-color="#071d45"/>
+    </radialGradient>
+    <radialGradient id="pink" cx="0.1" cy="0.5" r="1">
+      <stop offset="0" stop-color="#ffd1ec"/>
+      <stop offset="0.35" stop-color="#ff6fb5"/>
+      <stop offset="0.7" stop-color="#d6337f"/>
+      <stop offset="1" stop-color="#4a0b2c"/>
+    </radialGradient>
+    <radialGradient id="pink2" cx="0.1" cy="0.3" r="1">
+      <stop offset="0" stop-color="#ffe3f3"/>
+      <stop offset="0.4" stop-color="#ff9ccf"/>
+      <stop offset="0.75" stop-color="#e0559b"/>
+      <stop offset="1" stop-color="#521033"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/><stop offset="0.5" stop-color="#58a6ff"/><stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+    <g id="w_morpho">
+      <clipPath id="cfmorpho"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chmorpho"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#morpho)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chmorpho)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#morpho)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfmorpho)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfmorpho)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  <g id="w_morpho2">
+      <clipPath id="cfmorpho2"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chmorpho2"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#morpho2)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chmorpho2)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#morpho2)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfmorpho2)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfmorpho2)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  <g id="w_pink">
+      <clipPath id="cfpink"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chpink"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#pink)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chpink)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#pink)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfpink)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfpink)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  <g id="w_pink2">
+      <clipPath id="cfpink2"><path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z"/></clipPath>
+      <clipPath id="chpink2"><path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z"/></clipPath>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="url(#pink2)"/>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="3.5" clip-path="url(#chpink2)" opacity="0.9"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="url(#pink2)"/>
+      <ellipse cx="16" cy="-12" rx="14" ry="6" transform="rotate(-35 16 -12)" fill="#e6f5ff" opacity="0.18" clip-path="url(#cfpink2)"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="4.5" clip-path="url(#cfpink2)" opacity="0.92"/>
+      <g stroke="#04122b" stroke-width="0.45" opacity="0.4" fill="none">
+        <path d="M2,-2 C12,-12 22,-20 31,-26"/><path d="M2,-1 C14,-8 26,-13 38,-17"/>
+        <path d="M2,0 C12,-2 20,-3 30,-6"/><path d="M2,2 C10,8 18,14 24,21"/><path d="M2,2 C6,12 9,20 12,28"/>
+      </g>
+      <g fill="#ffffff" opacity="0.85">
+        <circle cx="39" cy="-24" r="0.9"/><circle cx="35.5" cy="-27.5" r="0.75"/><circle cx="40.5" cy="-19.5" r="0.75"/><circle cx="37" cy="-14" r="0.6"/>
+        <circle cx="27.5" cy="21" r="0.6"/><circle cx="22" cy="25.5" r="0.55"/>
+      </g>
+      <path d="M1,1 C8,2 20,3 28,8 C32,10 33,14 31,18 C30,21 29,22 27,24 C25,26 23,25 21,27 C19,30 16,31 13,30 C9,30 7,28 5,24 C3,19 1,10 1,1 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+      <path d="M1,-3 C6,-14 18,-27 34,-31 C41,-32 45,-28 43,-22 C41,-12 35,-4 25,0 C17,3 8,2 1,0 Z" fill="none" stroke="#0b0f1a" stroke-width="0.6"/>
+    </g>
+  </defs>
+  <g opacity="0.97"><g transform="rotate(90) scale(0.41)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.48s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.48s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M1046,416 C1022,340 968,294 900,261 C855,206 824,137 772,89 C722,38 664,-4 580,-21 C552,-93 478,-119 454,-196 C427,-269 380,-322 296,-339" dur="23.8s" begin="-12.8s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.95"><g transform="rotate(90) scale(0.54)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.40s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.40s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M40,441 C86,387 144,343 168,271 C179,190 279,178 302,106 C358,59 348,-38 406,-83 C476,-118 480,-206 555,-237 C577,-310 650,-342 696,-396" dur="21.0s" begin="-17.6s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.88"><g transform="rotate(90) scale(0.46)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.40s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.40s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M-279,197 C-217,158 -137,173 -76,132 C-7,115 70,123 129,74 C190,34 259,15 329,1 C410,20 460,-54 538,-44 C613,-45 681,-66 732,-137" dur="18.8s" begin="-10.8s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.99"><g transform="rotate(90) scale(0.45)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.36s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_pink2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.36s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M615,397 C554,360 520,288 448,265 C392,222 348,163 282,132 C220,96 149,72 90,32 C72,-60 -6,-76 -35,-155 C-100,-187 -182,-196 -225,-256" dur="17.8s" begin="-14.5s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.92"><g transform="rotate(90) scale(0.43)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.38s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.38s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M322,-429 C334,-357 432,-319 426,-241 C473,-183 459,-101 498,-40 C533,23 533,99 565,162 C577,234 659,278 658,355 C673,425 710,487 705,565" dur="15.2s" begin="-8.0s" repeatCount="indefinite" rotate="auto"/></g>
+  <g opacity="0.87"><g transform="rotate(90) scale(0.40)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.45s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g><g transform="scale(-1,1)"><g><use href="#w_morpho2"/><animateTransform attributeName="transform" type="scale" values="1 1;0.12 1;1 1" dur="0.45s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></g></g><ellipse cx="0" cy="4" rx="2" ry="13" fill="#0b0f1a"/><circle cx="0" cy="-10" r="2.4" fill="#0b0f1a"/><path d="M-0.8,-11 C-3,-19 -6,-24 -8,-27 M0.8,-11 C3,-19 6,-24 8,-27" stroke="#0b0f1a" stroke-width="0.8" fill="none"/><circle cx="-8" cy="-27" r="1.1" fill="#0b0f1a"/><circle cx="8" cy="-27" r="1.1" fill="#0b0f1a"/></g><animateMotion path="M789,127 C723,98 652,91 582,77 C515,49 451,8 376,21 C307,3 236,-0 158,31 C88,16 22,-14 -42,-61 C-107,-101 -190,-41 -257,-69" dur="24.0s" begin="-21.3s" repeatCount="indefinite" rotate="auto"/></g>
+</svg>
