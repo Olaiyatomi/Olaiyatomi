@@ -1,19 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,50:0969da,100:54aeff&height=200&section=header&text=Hi,%20I'm%20Tomi%20💙&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=SOC%20Analyst%20%E2%86%92%20Detection%20Engineer&descAlignY=58&descSize=18" width="100%"/> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0969DA&center=true&vCenter=true&width=620&lines=Hunting+identity+attacks+in+Entra+ID+%F0%9F%94%B5;Writing+detections+as+code+in+KQL+%F0%9F%92%99;Turning+noisy+alerts+into+real+signal+%F0%9F%A9%B5;Automating+the+boring+parts+with+Python+%F0%9F%90%B3" alt="typing intro"/> </p> <p align="center"> <a href="mailto:tomiolaiya.sec@gmail.com"><img src="https://img.shields.io/badge/Email-tomiolaiya.sec%40gmail.com-0969DA?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ottawa%20→%20Calgary-0A2540?style=for-the-badge&logo=googlemaps&logoColor=white"/> <img src="https://img.shields.io/badge/Open%20to-Detection%20%26%20Cloud%20Security%20roles-54AEFF?style=for-the-badge"/> </p>
-🩵 About me
-<table> <tr> <td width="50%" valign="top"> <h4>🔵 By day</h4> Cybersecurity analyst at the City of Ottawa, triaging alerts in Microsoft Defender and Sentinel and building my way into detection engineering. </td> <td width="50%" valign="top"> <h4>🎵 By night</h4> Musician and songwriter. Turns out writing a good song and writing a good detection have a lot in common: cut what doesn't belong until only the signal is left. 🩵 </td> </tr> </table>
-💻 Programmer first: I studied computer programming, and that's still how I come at security
-🔷 3 years in security operations, 5 in security overall
-🌊 I like taking a messy alert, figuring out what actually happened, and writing the detection so the next one is cleaner
-🧊 What I'm building
-<table> <tr> <td width="100%"> <h4>💎 <a href="https://github.com/Olaiyatomi/identity-threat-detections">identity-threat-detections</a></h4> Identity attack detections for Entra ID and Microsoft 365, written as code.<br/> Every rule ships with MITRE ATT&CK mapping, the logic behind it, test notes, and tuning guidance.<br/><br/> <img src="https://img.shields.io/badge/KQL-0969DA?style=flat-square"/> <img src="https://img.shields.io/badge/Sentinel-0A2540?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Entra%20ID-54AEFF?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-1F6FEB?style=flat-square"/> </td> </tr> </table>
-🐳 Toolbox
+<p align="center">
+  <img src="./butterflies-header.svg" width="100%" alt="hey, i'm tomi"/>
+</p>
 
-Detection & response<br/> <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0A2540?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Defender%20XDR-0969DA?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/KQL-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-54AEFF?style=for-the-badge"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=620&lines=Hunting+identity+attacks+in+Entra+ID+%F0%9F%94%B5;Writing+detections+as+code+%F0%9F%92%99;Turning+noisy+alerts+into+real+signal+%F0%9F%A9%B5;Automating+the+boring+parts+with+Python+%F0%9F%90%B3;Chasing+butterflies+%F0%9F%A6%8B" alt="typing intro"/>
+</p>
 
-Automation<br/> <img src="https://img.shields.io/badge/Python-0A2540?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-0969DA?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/Logic%20Apps-1F6FEB?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Git-54AEFF?style=for-the-badge&logo=git&logoColor=white"/>
+I work in security, write code whenever I get the chance, and make music the rest of the time. Honestly it's all the same itch 🦋 figure out how something works, then figure out how it breaks.
 
-Cloud<br/> <img src="https://img.shields.io/badge/Azure-0A2540?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20365-0969DA?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Entra%20ID-1F6FEB?style=for-the-badge&logo=microsoft&logoColor=white"/>
+**Lately I'm into**
+- threat hunting and detection
+- cloud and identity security
+- building little tools that make my own job easier
+- writing songs 🩵
 
-🫐 Certifications
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-0A2540?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/INE-eJPT-0969DA?style=for-the-badge"/> <img src="https://img.shields.io/badge/Microsoft-SC--900-1F6FEB?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft-AZ--900-54AEFF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<p align="center"> 💙 Thanks for stopping by. If you're hiring for detection engineering or cloud security, let's talk. 🩵 </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:54aeff,50:0969da,100:0a2540&height=110&section=footer" width="100%"/>
+**Stuff I reach for**
+Sentinel, Defender, Azure, Python, PowerShell, KQL, Git, and whatever else the problem needs.
+
+**Certs** Security+ · eJPT · SC-900 · AZ-900
+
+---
+
+### 🎧 hear my stuff
+
+<a href="https://youtu.be/JryGAR-N6sc?si=9B4fn7-3WAXvTFBV">
+  <img src="https://img.youtube.com/vi/JryGAR-N6sc/hqdefault.jpg" width="320" alt="Call Me by Teeti"/>
+</a>
+
+**Call Me** by Teeti 💙 [stream it on YouTube](https://youtu.be/JryGAR-N6sc?si=9B4fn7-3WAXvTFBV)
+
+---
+
+📍 Canada · 📫 tomiolaiya.sec@gmail.com
+
+<p align="center">
+  <img src="./butterflies-footer.svg" width="100%" alt=""/>
+</p>
